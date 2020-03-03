@@ -1,7 +1,6 @@
 .main-container {
   display: grid;
   grid-template-columns: 25% 50% 25%;
-  grid-template-rows: auto 80%;
   grid-template-areas: 
     "title head farside"
     "side main farside"
